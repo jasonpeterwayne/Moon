@@ -3,12 +3,7 @@ layout: post
 title:  "안녕하세요:)"
 date:   2019-03-28
 excerpt: "First Post and Introduction about the Blog."
-tag:
-- interest 
-- study
-- homework
-- test
-- jekyll
+tag: [interest, study, homework, test, jekyll]
 comments: true
 ---
 
