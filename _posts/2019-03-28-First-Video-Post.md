@@ -3,7 +3,13 @@ layout: post
 title:  "유튜브 영상 링크를 첨부하여 올리는 첫번째 포스트"
 date:   2019-03-28
 excerpt: "유튜브 영상 첨부를 테스트하기 위한 포스트입니다."
-tag:[test, post, youtube, video, musical, daily_life]
+tag:
+- test
+- post
+- youtube
+- video
+- musical
+- daily_life
 comments: true
 ---
 
