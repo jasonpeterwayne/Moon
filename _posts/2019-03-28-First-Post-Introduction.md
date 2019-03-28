@@ -3,7 +3,7 @@ layout: post
 title:  "안녕하세요:)"
 date:   2019-03-28
 excerpt: "First Post and Introduction about the Blog."
-feature: 1.jpg
+feature: https://i.pinimg.com/originals/d1/45/50/d145500ccf29e7d39ee632e78409cfed.jpg
 tag: [interest, study, homework, test, jekyll]
 comments: true
 ---
