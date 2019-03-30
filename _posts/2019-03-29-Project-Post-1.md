@@ -18,7 +18,7 @@ comments: true
 
 ### [Unity 홈페이지](https://unity.com/kr)
 
-![screenshot of Unity](https://github.com/jasonpeterwayne/jasonpeterwayne.github.io/blob/master/assets/img/Unity.jpeg)
+![screenshot of Unity](https://github.com/jasonpeterwayne/jasonpeterwayne.github.io/blob/master/assets/img/Unity.jpg)
 ### [MazM 홈페이지](http://mazm.me/kor/home/)
 
 
