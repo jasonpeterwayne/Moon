@@ -7,7 +7,6 @@ tag:
 - post
 - Game
 - Story-Plot
-- 
 - Project
 - S-Lab
 comments: true
