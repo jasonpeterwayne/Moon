@@ -6,8 +6,7 @@ excerpt: "Second Post about the Project(3D 모델링 정보)."
 tag: 
 - post
 - Maya
-- 3D
-- Making
+- 3D Making
 - Game
 - Project
 - S-Lab
