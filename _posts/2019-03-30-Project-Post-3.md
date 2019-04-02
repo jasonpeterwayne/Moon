@@ -4,7 +4,7 @@ title:  "세번째 프로젝트 포스트(스토리 플롯 설정)"
 date:   2019-03-30
 excerpt: "Third Post about the Project(스토리 플롯 설정)."
 tag: 
-- post
+- Post
 - Game
 - Story-Plot
 - Project
