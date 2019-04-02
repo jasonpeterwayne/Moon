@@ -8,7 +8,7 @@ tag:
 - Game
 - Festival Info
 - Unite Seoul 2019
-- Google Play Indi Game Festival
+- GooglePlay Indie Games Festival
 - BIC Festival
 - Goormedu
 - Project
@@ -32,3 +32,15 @@ Unite Seoul 2019 트레이닝 데이가 5월 20일(월)에 진행되는데 유�
 <img width="1198" alt="스크린샷 2019-04-02 오후 12 15 22" src="https://user-images.githubusercontent.com/39361933/55373753-2431f600-5541-11e9-8488-74f6b9aedc39.png">
 
 #### [Unite Seoul 2019 트레이닝 데이](https://uniteseoul.com/2019/trainingday.asp#pointer)
+
+<img width="977" alt="스크린샷 2019-04-02 오후 12 34 04" src="https://user-images.githubusercontent.com/39361933/55374496-9dcae380-5543-11e9-9773-967cc630b6a1.png">
+
+#### [GooglePlay Indie Games Festival](https://indiegamesshowcase.withgoogle.com/korea/)
+
+* Date : 6월 29일(토)
+* Location : 예스 24 라이브홀
+
+MazM : 지킬 앤 하이드
+
+* Location : 예스 24 라이브홀
+
