@@ -4,7 +4,7 @@ title:  "두번째 프로젝트 포스트(3D 모델링 정보)"
 date:   2019-03-29
 excerpt: "Second Post about the Project(3D 모델링 정보)."
 tag: 
-- post
+- Post
 - Maya
 - 3D Making
 - Game
