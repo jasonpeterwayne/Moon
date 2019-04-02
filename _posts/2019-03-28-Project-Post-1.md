@@ -4,7 +4,7 @@ title:  "첫번째 프로젝트 포스트(S_Lab Project 주제 선정)"
 date:   2019-03-28
 excerpt: "First Post about the Project(S_Lab Project 주제 선정)."
 tag: 
-- post
+- Post
 - Unity
 - Game
 - Project
