@@ -23,8 +23,8 @@ comments: true
 #### [Unite Seoul 2019](https://uniteseoul.com/2019/#pointer)
 
 
-Date : 5월 21일(화) ~ 22일(수)
-Location : 코엑스 그랜드볼룸
+*Date : 5월 21일(화) ~ 22일(수)
+*Location : 코엑스 그랜드볼룸
 
 진짜 제일 가고 싶은 페스티벌인데 하필 학기 중이라서 못간다...ㅠㅠ
 Unite Seoul 2019 트레이닝 데이가 5월 20일(월)에 진행되는데 유니티 강의를 직접 들어보고 공부할 수 있는 프로그램이 열려서 참여하고픈 프로그램이다.
