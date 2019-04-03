@@ -22,7 +22,6 @@ comments: true
 
 
 #### [Unite Seoul 2019](https://uniteseoul.com/2019/#pointer)
-[Unite Seoul 2019](https://uniteseoul.com/2019/#pointer)
 
 * Date : 5월 21일(화) ~ 22일(수)
 * Location : 코엑스 그랜드볼룸
