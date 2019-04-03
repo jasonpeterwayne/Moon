@@ -19,7 +19,8 @@ comments: true
 # 올해 게임 페스티벌 정보
 
 <img width="1351" alt="스크린샷 2019-04-02 오후 12 15 49" src="https://user-images.githubusercontent.com/39361933/55373752-2300c900-5541-11e9-8d78-14c89047213d.png">
-![스크린샷 2019-04-02 오후 3 59 56](https://user-images.githubusercontent.com/39361933/55490003-f3031400-566d-11e9-937b-575acd1816b3.png)
+<img width="977" alt="스크린샷 2019-04-02 오후 12 34 04" src="https://user-images.githubusercontent.com/39361933/55490147-3bbacd00-566e-11e9-9584-e64fdab34d9c.png">
+
 
 
 #### [Unite Seoul 2019](https://uniteseoul.com/2019/#pointer)
