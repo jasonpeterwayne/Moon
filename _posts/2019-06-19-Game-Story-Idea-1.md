@@ -27,8 +27,6 @@ comments: true
 * 유저의 선택에 따라 게임의 엔딩이 달라야 함(그러나 너무 많은 선택지를 주면 안됨)
 * 유저가 게임의 스토리를 예측할 수 없어야 함
    
-     
-That's all.
 
 ## Preview
 
@@ -151,7 +149,10 @@ To show disqus comments for your post add `comments: true` to your post's front 
 
 ## Questions?
 
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
+이 스토리 아이디어에 대하여 제게 연락하고 싶으신 분은 
+* jasontodd0816@naver.com
+* kyh08160209@gmail.com
+로 메일 주시길 바랍니다:)
 
 ---
 
