@@ -17,7 +17,7 @@ comments: true
      
  고등학생 때 이 책을 읽게 되고 난 후, 계속해서 공리주의, 자유주의 간의 균형에 대해 생각하게 되었고 이를 사람들에게 알려 사람들은 어떤 가치를 중요하게 여기는지, 그리고 그 가치를 중요하게 여기는 것이 옳은 것인지 사람들 스스로가 생각해 볼 수 있는 게임을 만들어 보고 싶었습니다.
  
-<iframe src="https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%98%EB%9E%80_%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80" frameborder="0" scrolling="0"></iframe>    
+<iframe src="https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%98%EB%9E%80_%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80" frameborder="0" scrolling="0" width="500" height="300"></iframe>    
       
 ## Installation
 * Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
