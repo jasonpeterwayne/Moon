@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Game Story Design"
-date:   2016-04-06
+date:   2019-06-19
 excerpt: "First composition idea of the story."
 project: true
 tag:
@@ -21,12 +21,12 @@ comments: true
 <iframe src="https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%98%EB%9E%80_%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80" frameborder="0" scrolling="0" width="720" height="350"></iframe>
 #### <b>정의란 무엇인가?</b>(from 위키백과) 
       
-## Installation
-* Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
-* Edit `_config.yml` file.
-* Remove sample posts from `_posts` folder and add yours.
-* Edit `index.md` file in `about` folder.
-* Change repo name to `YourUserName.github.io`    
+## 이야기 구성의 필수 조건
+* 유저가 게임 플레이 후 정의에 대해 다시 생각해 볼 수 있을 정도로 스토리가 인상 깊어야 함(영화처럼)
+* 도덕적 딜레마를 다루어야 함(공리주의, 자유주의와 같은 오늘날 사회에서 중요한 역할을 하는 가치관들의 대립)
+* 유저의 선택에 따라 게임의 엔딩이 달라야 함(그러나 너무 많은 선택지를 주면 안됨)
+* 유저가 게임의 스토리를 예측할 수 없어야 함
+   
      
 That's all.
 
@@ -157,4 +157,6 @@ Found a bug or aren't quite sure how something works? By all means [file a GitHu
 
 ## License
 
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
+이 스토리 아이디어는 제 온전한 생각이며 출처를 밝히고 인용하는 것은 괜찮습니다. 그러나 출처를 밝히지 않고 아이디어를 무단 도용할 경우 <p style="color:red;">법적 처벌</p>을 받을 수 있습니다:)
+
+
